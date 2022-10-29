@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\bin\Debug\net6.0\Sueldoturno.exe
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\bin\Debug\net6.0\Sueldoturno.deps.json
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\bin\Debug\net6.0\Sueldoturno.runtimeconfig.json
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\bin\Debug\net6.0\Sueldoturno.dll
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\bin\Debug\net6.0\Sueldoturno.pdb
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.dll
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\refint\Sueldoturno.dll
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.pdb
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\Sueldoturno.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\Sueldoturno\Sueldoturno\obj\Debug\net6.0\ref\Sueldoturno.dll
